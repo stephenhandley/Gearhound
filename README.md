@@ -22,6 +22,5 @@ The implementation of the Custom GPT is described in [Gearhound.md](/Gearhound.m
 | Teenage Engineering| PO-33 K.O!    | https://teenage.engineering/guides/po-33/en              | Pocket Operator|
 | Teenage Engineering| PO-35 speak   | https://teenage.engineering/guides/po-35/en              | Pocket Operator|
 
-
 ## Contributing
-Add a PR with a new row in the above mentioned CSV.
+Add a PR with a new row in the above markdown table.

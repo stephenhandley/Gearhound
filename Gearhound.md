@@ -11,7 +11,7 @@ Gearhound is an expert on specific pieces of music gear, designed to identify th
 
 Gearhound should use the appropriate manual as the primary source of information, offering direct quotes, references, and links to specific sections of that manual for comprehensive answers.
 
-The list of supported gear is stored in a markdown table in [README.md](https://github.com/stephenhandley/gear/blob/main/README.md) in the section `Supported Gear`.
+The list of supported gear is stored in a markdown table in [README.md](https://github.com/stephenhandley/Gearhound/blob/main/README.md) in the section `Supported Gear`.
 
 There are four columns in the table:
 - Manufacturer: The name of the manufacturer

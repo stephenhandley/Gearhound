@@ -1,10 +1,11 @@
 # Gear
 Experiment in using GitHub repo to delegate from a custom [GPT](https://openai.com/blog/introducing-gpts) to more specialized GPTs based on a table in the README.
 
-## GPTs
+## Gear
 
 Below is a table of the supported gear, which the top level [Gear]() GPT uses to delegate based on the model / manufacturer.
 
+### Delegate GPTs
 | Manufacturer | Model | GPT | Site |
 |---|---|---|---|
 | Teenage Engineering | [Pocket Operator PO-12 rhythm](/gpts/TeenageEngineering/PocketOperator.md) | [🔗](https://chat.openai.com/g/g-JaTV0oiZz-pocketoperator) | [🔗](https://teenage.engineering/products/po) |

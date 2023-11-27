@@ -9,7 +9,7 @@ The implementation of the Custom GPT is described in [Gearhound.md](/Gearhound.m
 |---|---|---|---|
 | Ableton | Push 3 | [Manual](https://www.ableton.com/en/push/manual/) | |
 | Ableton | Live 11 | [Manual](https://www.ableton.com/en/manual/welcome-to-live/) | |
-| Ableton | Note | [🔗](https://www.ableton.com/en/note/) | |
+| Ableton | Note | [Manual](https://www.ableton.com/en/note/) | |
 | Teenage Engineering | OP-1 | [Manual](https://teenage.engineering/products/op-1/original) | |
 | Teenage Engineering | OP-Z | [Manual](https://teenage.engineering/products/op-z/) | |
 | Teenage Engineering | PO-12 rhythm | [Manual](https://teenage.engineering/guides/po-12/en) | Pocket Operator |

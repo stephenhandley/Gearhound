@@ -1,9 +1,9 @@
-# Gearhound
+# Gear
 Your expert [GPT](https://openai.com/blog/introducing-gpts) for music gear, based on their manuals.
 
-The implementation of the Custom GPT is described in [Gearhound.md](/Gearhound.md)
+The implementation of the Custom GPT is described in [Gear.md](/Gear.md)
 
-## Gear
+## Supported Gear
 
 | Manufacturer | Model | Manual | Line |
 |---|---|---|---|
@@ -11,7 +11,7 @@ The implementation of the Custom GPT is described in [Gearhound.md](/Gearhound.m
 | Ableton | Live 11 | [Manual](https://www.ableton.com/en/manual/welcome-to-live/) | |
 | Ableton | Note | [Manual](https://www.ableton.com/en/note/) | |
 | Teenage Engineering | OP-1 | [Manual](https://teenage.engineering/products/op-1/original) | |
-| Teenage Engineering | OP-Z | [Manual](https://teenage.engineering/products/op-z/) | |
+| Teenage Engineering | OP-Z | [Manual](https://teenage.engineering/guides/op-z) | |
 | Teenage Engineering | PO-12 rhythm | [Manual](https://teenage.engineering/guides/po-12/en) | Pocket Operator |
 | Teenage Engineering | PO-14 sub | [Manual](https://teenage.engineering/guides/po-14/en) | Pocket Operator |
 | Teenage Engineering | PO-16 factory | [Manual](https://teenage.engineering/guides/po-16/en) | Pocket Operator |

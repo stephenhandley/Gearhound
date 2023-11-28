@@ -1,5 +1,5 @@
 # Gear
-Experiment in using GitHub repo to delegate from a custom [GPT](https://openai.com/blog/introducing-gpts) to more specialized GPTs based on a table in the README.
+Experiment in using GitHub repo to delegate from a custom [GPT](https://openai.com/blog/introducing-gpts) to more specialized GPTs based on a table in the README. GPT didn't support trying to delegate and so just made one Gear that used table of manuals.
 
 ## Gear
 

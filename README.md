@@ -3,6 +3,11 @@ Your expert [GPT](https://openai.com/blog/introducing-gpts) for music gear, base
 
 The implementation of the Custom GPT is described in [Gear.md](/Gear.md)
 
+## Links
+- [Gear GPT](https://chat.openai.com/g/g-OIA0zVvKe-gear)
+- [Pocket Operator GPT](https://chat.openai.com/g/g-JaTV0oiZz-pocketoperator)
+- [Push 3 GPT](https://chat.openai.com/g/g-tPZA8oaml-push3)
+
 ## Supported Gear
 
 | Manufacturer | Model | Manual | Line |
